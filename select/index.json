@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Love You Anyway",
+  "base_artist": "The Marías",
+  "createdAt": "2025-12-09T14:32:53.019018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/01_Love_You_Anyway_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "love you anyway",
+      "artist": "John K",
+      "has_synced": false,
+      "path": "select/02_love_you_anyway_John_K.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Still Love You, Anyway",
+      "artist": "Buddy Miles",
+      "has_synced": false,
+      "path": "select/03_I_Still_Love_You,_Anyway_Buddy_Miles.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Boyzone",
+      "has_synced": false,
+      "path": "select/04_Love_You_Anyway_Boyzone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Boyzone",
+      "has_synced": true,
+      "path": "select/05_Love_You_Anyway_Boyzone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/06_Love_You_Anyway_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Boyzone",
+      "has_synced": false,
+      "path": "select/07_Love_You_Anyway_Boyzone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/08_Love_You_Anyway_Luke_Combs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I love you anyway",
+      "artist": "gila",
+      "has_synced": true,
+      "path": "select/09_I_love_you_anyway_gila.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Ji Nilsson feat. Marlene",
+      "has_synced": true,
+      "path": "select/10_Love_You_Anyway_Ji_Nilsson_feat._Marlene.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Ji Nilsson",
+      "has_synced": true,
+      "path": "select/11_Love_You_Anyway_Ji_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/12_Love_You_Anyway_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Gonna Love You Anyway",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/13_I'm_Gonna_Love_You_Anyway_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love You Anyway",
+      "artist": "Carlie Hanson",
+      "has_synced": false,
+      "path": "select/14_Love_You_Anyway_Carlie_Hanson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love You Anyway (feat. Don Henley)",
+      "artist": "Trisha Yearwood",
+      "has_synced": false,
+      "path": "select/15_Love_You_Anyway_(feat._Don_Henley)_Trisha_Yearwood.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Will Always Love You Anyway",
+      "artist": "Rachelle Ann Go",
+      "has_synced": false,
+      "path": "select/16_I_Will_Always_Love_You_Anyway_Rachelle_Ann_Go.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love You Anyway",
+      "artist": "The Marías",
+      "has_synced": false,
+      "path": "select/pl_01_Love_You_Anyway_The_Marías.txt"
+    }
+  ]
+}
